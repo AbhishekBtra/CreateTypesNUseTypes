@@ -1,0 +1,6 @@
+\\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.exe.config
+\\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.csprojResolveAssemblyReference.cache
+\\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.exe
+\\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.pdb
+\\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.exe
+\\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.pdb
