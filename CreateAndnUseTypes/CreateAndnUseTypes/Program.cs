@@ -13,14 +13,10 @@ namespace CreateAndnUseTypes
 
             Program p = new Program();
             //p.OnlyCallStructFns(p);
+            //p.Enums();
+            p.CallConstructors();
 
-            Days d = Days.Sunday;
-            int d_int = (int)Days.Sunday + 9;
-            Console.WriteLine("{0}    {1}",d,d_int);
-
-            Console.WriteLine("First day is {0} i.e {1}",(int)Days.Sunday,Days.Sunday);
-            
-            Console.WriteLine("Fifthday is {0} i.e {1}", 5, (Days)5);
+           
             Console.ReadKey();
         }
 
@@ -42,8 +38,25 @@ namespace CreateAndnUseTypes
 
             
         }
+        public void Enums()
+        {
+            Days d = Days.Sunday;
+            int d_int = (int)Days.Sunday + 9;
+            Console.WriteLine("{0}    {1}", d, d_int);
 
+            Console.WriteLine("First day is {0} i.e {1}", (int)Days.Sunday, Days.Sunday);
 
+            Console.WriteLine("Fifthday is {0} i.e {1}", 5, (Days)5);
+        }
+
+        public void CallConstructors()
+        {
+            // Constructors c = new Constructors();//  error cause its private contructor
+            // Constructors c1 = new Constructors(5);
+
+            //  DerivedClass ob = new DerivedClass();
+            DerivedClass ob = new DerivedClass(null);
+        }
 
 
         public void OnlyCallStructFns(Program p)

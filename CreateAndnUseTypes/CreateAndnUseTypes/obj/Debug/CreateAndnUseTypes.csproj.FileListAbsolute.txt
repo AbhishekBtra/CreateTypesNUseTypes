@@ -4,3 +4,9 @@
 \\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.pdb
 \\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.exe
 \\viewpm01\profiles$\abatra\mydocuments\visual studio 2015\Projects\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.pdb
+D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.exe.config
+D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.exe
+D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.pdb
+D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.exe
+D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.pdb
+D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.csprojResolveAssemblyReference.cache
