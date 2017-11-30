@@ -8,15 +8,56 @@ namespace CreateAndnUseTypes
 {
     class Program
     {
+
+        static string bannerName;
+        static int objCounter;
+        static Program()
+        {
+            
+            bannerName = "The first one to be called i.e when the class is loaded and i am alive till the program is alive in memory";
+
+        }
+
+        
+        
+        public Program()
+        {
+           
+            objCounter = objCounter + 1;
+        }
         static void Main(string[] args)
         {
 
             Program p = new Program();
             //p.OnlyCallStructFns(p);
             //p.Enums();
-            p.CallConstructors();
+            //  p.CallConstructors();
+            //   p.bannerName; // error - coz static mmebers are single copy for class and not for every instance of class. 
 
-           
+            //Console.WriteLine(bannerName);
+            //StaticClass.ToStrings();
+
+            //Program p1 = new Program();
+            //Console.WriteLine("\n\n\t\tObjects created = {0}",objCounter);
+
+
+            //Rectangle rectangle = new Rectangle();
+            //Circle circle = new Circle();
+            //Drawing drawing = new Drawing();
+            //drawing.Add(rectangle);
+            //drawing.Add(circle);
+            //for (int i = 0; i < drawing.Count; ++i)
+            //{
+            //    GeometricShape shape = drawing[i];
+            //    shape.Draw();
+            //}
+
+            MyValue my = new MyValue();
+            my.x = 123;
+            IPrint ip = my;
+
+            my.Print();
+            ip.Print();
             Console.ReadKey();
         }
 

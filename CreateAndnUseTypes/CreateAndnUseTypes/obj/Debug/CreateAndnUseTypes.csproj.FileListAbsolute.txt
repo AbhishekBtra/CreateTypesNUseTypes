@@ -10,3 +10,9 @@ D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj
 D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.exe
 D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.pdb
 D:\JustGitt_Repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.csprojResolveAssemblyReference.cache
+P:\JustGitt_repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.exe.config
+P:\JustGitt_repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.exe
+P:\JustGitt_repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.pdb
+P:\JustGitt_repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.exe
+P:\JustGitt_repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\bin\Debug\CreateAndnUseTypes.pdb
+P:\JustGitt_repos\CreateTypesNUseTypes\CreateAndnUseTypes\CreateAndnUseTypes\obj\Debug\CreateAndnUseTypes.csprojResolveAssemblyReference.cache
