@@ -52,13 +52,25 @@ namespace CreateAndnUseTypes
             //    shape.Draw();
             //}
 
-            MyValue my = new MyValue();
-            my.x = 123;
-            IPrint ip = my;
+            //MyValue my = new MyValue();
+            //my.x = 123;
+            //IPrint ip = my;
 
-            my.Print();
-            ip.Print();
+            //my.Print();
+            //ip.Print();
+
+            //NamedArguments ob = new NamedArguments();
+            //NamedArgumentsBase ob1 = ob;
+            //ob.TestParam(b:1, a:2);
+            //ob1.TestParam(b: 1, a: 2);
+
+            B b = new B();
+            b.DoSomething(x: 1, y: 2);
+            A a = b;
+            a.DoSomething(x: 1, y: 2);
+
             Console.ReadKey();
+
         }
 
         /*
