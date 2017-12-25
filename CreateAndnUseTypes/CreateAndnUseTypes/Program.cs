@@ -28,7 +28,7 @@ namespace CreateAndnUseTypes
         static void Main(string[] args)
         {
 
-            Program p = new Program();
+            // Program p = new Program();
             //p.OnlyCallStructFns(p);
             //p.Enums();
             //  p.CallConstructors();
@@ -52,12 +52,32 @@ namespace CreateAndnUseTypes
             //    shape.Draw();
             //}
 
-            MyValue my = new MyValue();
-            my.x = 123;
-            IPrint ip = my;
+            //MyValue my = new MyValue();
+            //my.x = 123;
+            //IPrint ip = my;
 
-            my.Print();
-            ip.Print();
+            //my.Print();
+            //ip.Print();
+            //BeforeFieldInitExample ob = new BeforeFieldInitExample();
+            // A a = new A();
+
+
+            //try
+            //{
+            //    a.DoSomething();
+            //}
+            //finally
+            //{
+            //    a.Dispose();
+
+            //}
+            //using (A a = new A())
+            //{
+            //    a.DoSomething();
+            //}
+            TeamMember tm = new TeamMember("Milton Waddams","");
+
+            //Console.WriteLine(BeforeFieldInitExample.st.ToString());
             Console.ReadKey();
         }
 

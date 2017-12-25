@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BeforeFieldInitExample.cs" />
     <Compile Include="Boxing.cs" />
     <Compile Include="Constructors.cs" />
+    <Compile Include="FinalizersORDestructors.cs" />
     <Compile Include="IndexedProperties.cs" />
+    <Compile Include="OptionalParams.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticClass.cs" />
