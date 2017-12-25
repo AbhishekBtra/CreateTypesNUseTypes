@@ -48,7 +48,11 @@
     <Compile Include="Constructors.cs" />
     <Compile Include="FinalizersORDestructors.cs" />
     <Compile Include="IndexedProperties.cs" />
+<<<<<<< HEAD
     <Compile Include="OptionalParams.cs" />
+=======
+    <Compile Include="NamedArguments.cs" />
+>>>>>>> 42f8690b561d8f7ada7592f44efbe5191921bbcb
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticClass.cs" />
